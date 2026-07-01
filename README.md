@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prakhashh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakhashh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prakhashh/leetcode-solutions/tree/master/0027-remove-element) |
 | [1929-concatenation-of-array](https://github.com/Prakhashh/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Prakhashh/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Prakhashh/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
