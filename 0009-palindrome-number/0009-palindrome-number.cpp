@@ -7,7 +7,7 @@ public:
             int digit = x % 10;
 
         if (rev > INT_MAX / 10 || rev < INT_MIN / 10)
-    return false;    // or return 0 for Reverse Integer problem
+        return false;
 
 
   
